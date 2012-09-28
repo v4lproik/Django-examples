@@ -1,4 +1,0 @@
-Django
-======
-
-Some Django examples
